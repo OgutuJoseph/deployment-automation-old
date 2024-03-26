@@ -1,0 +1,3 @@
+[submodule "recipe-app-api-proxy"]
+	path = recipe-app-api-proxy
+	url = ./recipe-app-api-proxy
